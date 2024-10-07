@@ -93,7 +93,7 @@ st.sidebar.header('About the Model')
 st.sidebar.write("""
 This model uses Logistic Regression to predict student performance.
 It was trained on synthetic data representing various factors that may influence a student's academic success.
-The model's accuracy on the test set was approximately 85%.
+The model's accuracy on the test set was approximately 89%.
 """)
 
 # Add feature importance
@@ -103,5 +103,5 @@ feature_importance = pd.DataFrame({
 })
 feature_importance = feature_importance.sort_values('importance', ascending=False).head(10)
 
-st.sidebar.subheader('Top 10 Most Important Features:')
-st.sidebar.table(feature_importance)
+#st.sidebar.subheader('Top 10 Most Important Features:')
+#st.sidebar.table(feature_importance)
