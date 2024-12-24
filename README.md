@@ -1,4 +1,4 @@
-# Improving Academic Outcome For Secondary Education
+# Improving Academic Outcome For Secondary Education in Africa
 
 The Joint Admissions and Matriculation Board (JAMB), which oversees pre-tertiary examinations in Nigeria, has released alarming statistics regarding student performance. In the 2024 UTME, around 80% of students scored below 200 points, which is less than half of the maximum score.
 
